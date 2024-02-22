@@ -1,9 +1,7 @@
-### Olá! Seja bem vindo ao meu perfil! 🖤
-Meu nome é Maria Clara
-Sou estudante da **ALURA** 
+### hello!
 
+Eu sou a Maria Clara
 
+Estudo na Alura, Colegio Laranjeiras, e faço Tecnico em agropecuaria
 
-![image](https://media1.tenor.com/m/eP2gYNeZAAUAAAAC/baby-rapunzel.gif)
-![image](https://media1.tenor.com/m/gfTfAmNsmnAAAAAC/tangled-the-series-disney.gif)
-
+Não entre em contato 📪
